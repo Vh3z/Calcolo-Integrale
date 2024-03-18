@@ -1,0 +1,8 @@
+# sqrt(sen(x)) calcolato tra 0 e pigreco
+#   X:accuratezza   Y:integrale
+    
+    0.5             2.2944
+    0.05            2.3843
+    0.005           2.3949
+    0.0005          2.3961
+    0.00005         2.3962
